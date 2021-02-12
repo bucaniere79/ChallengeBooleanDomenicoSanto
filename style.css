@@ -1,0 +1,57 @@
+body{
+  background-size: cover;
+  background-image:url(background.jpg);}
+
+ .riquado{
+  margin: auto;
+  background-color: rgba(0,0,0,0.5);
+  border-radius: 15px;
+  width: 85%;
+  height: 85%;}
+
+.contenitore_header{
+  text-align: center;
+  margin-top: 7%;}
+
+  div > img  {width: 150px;}
+
+  div{color: white;}
+
+  h1 {color: rgb(20,199,68);}
+
+  h2 {display: inline-block;}
+
+  .contenitore_header{
+    text-align: center;
+    margin-top: 7%;}
+
+  .contenitore_main{
+    width: 60%;
+    margin: auto;}
+
+    nav > div {
+      text-align: center;
+      background-color: rgb(3,252,28);
+      width: 58%;
+      margin: auto;
+      padding: 10px;  }
+
+  .barra_gino{
+    width: 350px;
+    height: 25px;
+    background-color: orange;
+    border-radius: 15px;
+    padding: 5px;}
+
+  .barra_mike{
+    width: 550px;
+    height: 25px;
+    background-color: lightgreen;
+    border-radius: 15px;
+    padding: 5px;}
+  .barra_fede{
+    width: 180px;
+    height: 25px;
+    background-color: red;
+    border-radius: 15px;
+    padding: 5px;}
